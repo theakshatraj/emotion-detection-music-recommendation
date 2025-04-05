@@ -1,0 +1,2 @@
+client id: c8c6b9ac6d23451b8667bc6ce2814132   //This is a unique identifier for your app, which you’ll use in the authentication process.
+client secret: f8ea6a78d34a4f9f9ff4c505023e5018 //This is a secret key associated with your app that will be used to authenticate your app with Spotify’s API.
