@@ -23,7 +23,3 @@ The "Mood-Based Music Recommendation System" leverages emotional intelligence to
    - Developed using Streamlit for a seamless user experience.  
    - Includes a “SCAN EMOTION” button to initiate emotion detection and display song recommendations.  
 
-## Installation  
-1. Clone this repository:  
-   ```bash  
-   git clone https://github.com/youruse
